@@ -1,1 +1,1 @@
-0x02-shell_redirections and filtre read file
+0x02-shell_redirections and filter readme file 

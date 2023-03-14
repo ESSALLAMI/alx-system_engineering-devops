@@ -1,2 +1,2 @@
 #!/bin/bash
-head hello user
+ls -a | head hello user

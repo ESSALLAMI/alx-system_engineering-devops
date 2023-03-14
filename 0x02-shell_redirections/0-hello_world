@@ -1,4 +1,3 @@
 #!/bin/bash
 echo "Hello Worl"
-cat -e
-Hello, World$
+cat -e   hello world

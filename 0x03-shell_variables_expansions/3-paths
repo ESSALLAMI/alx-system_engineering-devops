@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1F $dir_path | grep -v / | wc -l
+echo $PATH | tr ':' '\n' | wc -l

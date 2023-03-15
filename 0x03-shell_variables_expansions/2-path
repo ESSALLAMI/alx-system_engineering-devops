@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH="0x03-shell:$PATH"/action
+echo $PATH/action
